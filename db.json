@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "6dea",
+      "title": "Learn Python",
+      "completed": false
+    },
+    {
+      "id": "b002",
+      "title": "Stay home",
+      "completed": false
+    },
+    {
+      "id": "9b6a",
+      "title": "Learn more",
+      "completed": false
+    }
+  ]
+}

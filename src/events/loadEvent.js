@@ -1,6 +1,6 @@
-import loadHandler from '../handlers/loadHandler.js';
+import loadHandler from "../handlers/loadHandler.js";
 
-const loadEvent = () => {
+const loadEvent = () => { 
     window.addEventListener('load', loadHandler);
 };
 
